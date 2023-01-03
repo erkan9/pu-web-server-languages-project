@@ -27,7 +27,7 @@ StockControl is a web application designed to manage and organize the storage of
 
 1. Open the resources folder and inside open the application.properties.
 2. Enter your credentials for the username and password for connecting to the database.
-3(Optional). Please refer to the exported endpoints in the resources/endpoints folder, which you can
+3. (Optional) Please refer to the exported endpoints in the resources/endpoints folder, which you can
 import in Postman.
 4. Run the commands "npm install" and "npm run", while located in front-end folder.
 
